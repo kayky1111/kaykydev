@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9rmp2e"  />
+<img align="right" height="150" src="git-profile.gif"  />
 
 ###
 
