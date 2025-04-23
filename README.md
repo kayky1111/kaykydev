@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kayky1111/kayky1111/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kayky1111/KaykyDev/output/snake.svg" alt="Snake animation" />
 
 ###
 
